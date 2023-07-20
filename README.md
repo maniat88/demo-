@@ -1,2 +1,2 @@
 # Demo
-This is a project to get familair with Git
+This is a demo project to get familiar with Git
